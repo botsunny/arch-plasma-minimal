@@ -1,5 +1,7 @@
 # Sunny's Arch Linux installation guide
 
+💡***Remember, you can click the icon to the left of the `README.md` title for a table of contents.***
+
 This noob-friendly guide aims to assist users in setting up a fresh Arch Linux system equipped with a minimal installation of the KDE Plasma desktop environment.
 
 I have personally had a lot of troubles getting Arch to connect to Wi-Fi during the install process. For maximum convenience, consider connecting your machine using Ethernet.
